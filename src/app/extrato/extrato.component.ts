@@ -1,5 +1,5 @@
 import { Component, Input, OnInit } from '@angular/core';
-import { Transferencia } from 'src/models/transferencia';
+import { Transferencia } from 'src/app/models/transferencia';
 import { TransferenciaService } from '../services/transferencia.service';
 
 @Component({

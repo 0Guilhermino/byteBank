@@ -1,5 +1,5 @@
 import { Component, EventEmitter, Output } from "@angular/core";
-import { Transferencia } from "src/models/transferencia";
+import { Transferencia } from "src/app/models/transferencia";
 import { TransferenciaService } from "../services/transferencia.service";
 
 @Component({
@@ -24,9 +24,9 @@ export class NovaTransferenciaComponent {
 
         this.service.adicionarNovaTransferencia(valorEmitir).subscribe(resultado => {
             console.log(resultado);
-            this.limparFormulario();
-        },
-        error => console.log(error)
+            // this.limparFormulario();
+         },
+         (error) => console.log(error)
         );
         
         
