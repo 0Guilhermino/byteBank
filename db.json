@@ -25,30 +25,6 @@
       "id": "Zd4W6xJ"
     },
     {
-      "valor": null,
-      "destino": "1588",
-      "data": "2023-02-14T00:56:25.756Z",
-      "id": "9_A49vq"
-    },
-    {
-      "valor": null,
-      "destino": null,
-      "data": "2023-02-14T00:56:29.742Z",
-      "id": "MZ4hwzy"
-    },
-    {
-      "valor": null,
-      "destino": null,
-      "data": "2023-02-14T00:56:30.013Z",
-      "id": "C-aoSoK"
-    },
-    {
-      "valor": null,
-      "destino": null,
-      "data": "2023-02-14T00:56:30.245Z",
-      "id": "Wv6_ex9"
-    },
-    {
       "valor": 12.22,
       "destino": "1234-1",
       "data": "2023-02-14T00:56:51.862Z",
@@ -71,6 +47,42 @@
       "destino": "1891",
       "data": "2023-02-14T01:08:03.620Z",
       "id": "rT8WjjA"
+    },
+    {
+      "valor": 12.2,
+      "destino": "1256-6",
+      "data": "2023-02-14T01:42:29.030Z",
+      "id": "zVxKkX1"
+    },
+    {
+      "valor": 12.2,
+      "destino": "1256-6",
+      "data": "2023-02-14T01:42:30.485Z",
+      "id": "Z5TRPrw"
+    },
+    {
+      "valor": 12.2,
+      "destino": "1256-6",
+      "data": "2023-02-14T01:42:31.735Z",
+      "id": "8V_6Jbf"
+    },
+    {
+      "valor": 121.12,
+      "destino": "1215-5",
+      "data": "2023-02-14T01:44:52.471Z",
+      "id": "QmxBcy1"
+    },
+    {
+      "valor": 55.35,
+      "destino": "125-5",
+      "data": "2023-02-14T01:48:13.764Z",
+      "id": "ENxUO8N"
+    },
+    {
+      "valor": 1.5,
+      "destino": "2365-6",
+      "data": "2023-02-14T01:50:17.389Z",
+      "id": "TGOl0dZ"
     }
   ]
 }
